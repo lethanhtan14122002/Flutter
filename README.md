@@ -31,7 +31,7 @@ Kỹ thuật sử dụng: Flutter, Local Notification, Shared Preferences, Custo
 
 - Dự án 2 : [PHP](https://github.com/lethanhtan14122002/DA.PHP)
 
-- Dự án 3 : 
+- Dự án 3 : [Flutter](https://github.com/lethanhtan14122002/Flutter/tree/main)
 
 ## Liên hệ
 
